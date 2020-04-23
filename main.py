@@ -1,5 +1,6 @@
 # Assignment 12
 # Benjamin Lemery
+# 4/24/20
 # This program demonstrates various use cases of regular expressions
 
 import re
